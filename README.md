@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @Krishnaaaa1302
+- 👀 I’m interested in AI and ML
+- 🌱 I’m currently learning Data Analysis
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me : Mail : maheshwarikrishna67@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Gamer :)
+
+<!---
+Krishnaaaa1302/Krishnaaaa1302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
