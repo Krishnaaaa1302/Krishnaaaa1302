@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krishnaaaa1302
-- 👀 I’m interested in AI and ML
+- 👀 AI and ML enthusiast
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : Mail : maheshwarikrishna67@gmail.com
