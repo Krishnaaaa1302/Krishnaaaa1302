@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Krishnaaaa1302
 - 👀 AI and ML enthusiast
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me : Mail : maheshwarikrishna67@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Gamer :)
